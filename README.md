@@ -44,6 +44,7 @@ This is a dataset created from scraped data from https://fbref.com/en/comps/21/2
 * saves_completed
 * saves_attempted
 * save_percentage
+* goals_conceded
 * winning_percentage
 * avg_goals_scored
 * avg_possession
@@ -68,3 +69,4 @@ This is a dataset created from scraped data from https://fbref.com/en/comps/21/2
 * avg_saves_completed
 * avg_saves_attempted
 * avg_save_percentage
+* avg_goals_conceded
