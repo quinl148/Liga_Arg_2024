@@ -20,7 +20,7 @@ This is a dataset created from scraped data from https://fbref.com/en/comps/21/2
 
 # Metrics 
 
-* dxg
+* xg - expected goals scored
 * goals_scored
 * possession
 * passing_accuracy
@@ -46,27 +46,27 @@ This is a dataset created from scraped data from https://fbref.com/en/comps/21/2
 * save_percentage
 * goals_conceded
 * winning_percentage
-* avg_goals_scored
-* avg_possession
-* avg_passing_accuracy
-* avg_shots_on_target
-* avg_fouls
-* avg_corners
-* avg_crosses
-* avg_touches
-* avg_tackles
-* avg_interceptions
-* avg_aerials_won
-* avg_clearances
-* avg_offsides
-* avg_goals_kicks
-* avg_throw_ins
-* avg_long_balls
-* avg_passes_completed
-* avg_passes_attempted
-* avg_shots_attempted
-* avg_shots_on_target_percentage
-* avg_saves_completed
-* avg_saves_attempted
-* avg_save_percentage
-* avg_goals_conceded
+* avg_goals_scored - rolling average of all previous games in the season
+* avg_possession - rolling average of all previous games in the season
+* avg_passing_accuracy - rolling average of all previous games in the season
+* avg_shots_on_target - rolling average of all previous games in the season
+* avg_fouls - rolling average of all previous games in the season
+* avg_corners - rolling average of all previous games in the season
+* avg_crosses - rolling average of all previous games in the season
+* avg_touches - rolling average of all previous games in the season
+* avg_tackles - rolling average of all previous games in the season
+* avg_interceptions - rolling average of all previous games in the season
+* avg_aerials_won - rolling average of all previous games in the season
+* avg_clearances - rolling average of all previous games in the season
+* avg_offsides - rolling average of all previous games in the season
+* avg_goals_kicks - rolling average of all previous games in the season
+* avg_throw_ins - rolling average of all previous games in the season
+* avg_long_balls - rolling average of all previous games in the season
+* avg_passes_completed - rolling average of all previous games in the season
+* avg_passes_attempted - rolling average of all previous games in the season
+* avg_shots_attempted - rolling average of all previous games in the season
+* avg_shots_on_target_percentage - rolling average of all previous games in the season
+* avg_saves_completed - rolling average of all previous games in the season
+* avg_saves_attempted - rolling average of all previous games in the season
+* avg_save_percentage - rolling average of all previous games in the season
+* avg_goals_conceded - rolling average of all previous games in the season
